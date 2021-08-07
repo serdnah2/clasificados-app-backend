@@ -1,6 +1,6 @@
 # Clasificadosapp
 
-Proyecto semillero Alianza Futuro Digital Medellín 2020.
+Proyecto semillero Alianza Futuro Digital Medellín 2020-2021.
 
 # Enlace a la página web
 

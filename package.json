@@ -1,7 +1,7 @@
 {
   "name": "clasificadosapp",
   "version": "1.0.0",
-  "description": "",
+  "description": "Backend para Proyecto semillero Alianza Futuro Digital Medellín 2020.",
   "main": "index.js",
   "scripts": {
     "start:dev": "nodemon index.js",

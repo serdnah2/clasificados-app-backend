@@ -13,13 +13,13 @@ app.use(function (req, res, next) {
 })
 app.use('/api', router);
 
-app.listen(4001, () => {
+app.listen(() => {
     connection.connect((err) => {
         if (err) {
           console.error('error connecting: ' + err.stack);
           return;
         }
-       
+
         console.log('connected as id ' + connection.threadId);
       });
 

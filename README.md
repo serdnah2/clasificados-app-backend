@@ -4,7 +4,7 @@ Proyecto semillero Alianza Futuro Digital Medellín 2020.
 
 # Enlace a la página web
 
-http://ec2-18-220-72-102.us-east-2.compute.amazonaws.com/clasificadosapp/login.html
+https://serdnah2.github.io/clasificados-app/login.html
 
 ## Diseño
 
@@ -14,7 +14,7 @@ XD: https://xd.adobe.com/view/bb730ca0-a9b5-4a2a-85c1-e03e87232fa4-ee20/grid
 
 Descargamos el proyecto mediante git:
 
-    git clone https://github.com/serdnah2/clasificadosapp
+    git clone https://github.com/serdnah2/clasificados-app
 
 ## Backend App
 
@@ -22,7 +22,6 @@ Ejemplo de una aplicación básica usando express (https://expressjs.com/)
 
 Comandos para ejecutar la app de Nodejs:
 
-    cd backend
     npm install
     node index.js
 
@@ -32,5 +31,5 @@ Comandos para ejecutar la app de Nodejs:
 
 La base de datos la pueden ver en la carpeta de
 
-    backend/db/CLASIFICADOSAPP.sql
+    db/CLASIFICADOSAPP.sql
 

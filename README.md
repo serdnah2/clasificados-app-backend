@@ -14,7 +14,7 @@ XD: https://xd.adobe.com/view/bb730ca0-a9b5-4a2a-85c1-e03e87232fa4-ee20/grid
 
 Descargamos el proyecto mediante git:
 
-    git clone https://github.com/serdnah2/clasificados-app
+    git clone https://github.com/serdnah2/clasificados-app-backend
 
 ## Backend App
 

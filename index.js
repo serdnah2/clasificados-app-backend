@@ -13,7 +13,7 @@ app.use(function (req, res, next) {
 })
 app.use('/api', router);
 
-app.listen(() => {
+app.listen(3306, () => {
     connection.connect((err) => {
         if (err) {
           console.error('error connecting: ' + err.stack);

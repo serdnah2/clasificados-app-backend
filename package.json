@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/peluka613/clasificadosapp.git"
+    "url": "git+https://github.com/serdnah2/clasificados-app.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/peluka613/clasificadosapp/issues"
+    "url": "https://github.com/serdnah2/clasificados-app/issues"
   },
-  "homepage": "https://github.com/peluka613/clasificadosapp#readme",
+  "homepage": "https://github.com/serdnah2/clasificados-app#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
